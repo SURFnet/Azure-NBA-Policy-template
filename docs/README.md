@@ -16,7 +16,7 @@ Meer informatie hierover vind u op: [Toegang verhogen](https://docs.microsoft.co
 
 | Versie | Doel | Implementeer |
 |---|---|---|
-| 0.1.0 | Management group level | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSURFnet%2FAzure-NBA-Policy-template%2Fmain%2FARM%2FNBA-azuredeploy-managamentgroup.json) |
+| 0.1.0 | Management group level | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSURFnet%2FAzure-NBA-Policy-template%2Fmain%2FARM%2FNBA-azuredeploy-managementgroup.json) |
 | 0.1.0 | Subscription level | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSURFnet%2FAzure-NBA-Policy-template%2Fmain%2FARM%2FNBA-azuredeploy-subscription.json) |
 
 Na de implementatie van de initiative template die deze toegewezen te worden aan een Azure abonnement.
