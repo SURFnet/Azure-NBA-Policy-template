@@ -1,6 +1,6 @@
-# NBA Compliancy initiative template opbouw
+# SURFaudit Compliancy initiative template opbouw
 
-De template is opgebouwd door controls NBA die al naar ISO en NIST is gemapped te vergelijken met de Azure policies voor deze compliance frameworks, daarnaast is de NBA gemapped naar controls in de Microsoft Security Baseline. Door deze opzet zullen toekomstige updates die op bestaande Azure policies plaatsvinden makkelijker worden. Het up to date blijven met de nieuwe ontwikklingen en dus ook nieuwe of deprecated policies.
+De template is opgebouwd door controls vanuit het SURFaudit toetsingskader, die al naar ISO en NIST is gemapped, te vergelijken met de Azure policies voor deze compliance frameworks, daarnaast is SURFaudit gemapped naar controls in de Microsoft Security Baseline. Door deze opzet zullen toekomstige updates die op bestaande Azure policies plaatsvinden makkelijker worden. Het up to date blijven met de nieuwe ontwikklingen en dus ook nieuwe of deprecated policies.
 
 De mapping van de Azure policies die gebruikt voor deze template zijn beschikbaar in [NBA Control Policy mapping excel](./PolicyList.xlsx)
 
@@ -47,6 +47,6 @@ Sommige besturingselementen zijn grijs weergegeven. Aan deze besturingselementen
 Meer informatie hierover vind u op: [Uw regelnaleving verbeteren](https://docs.microsoft.com/nl-nl/azure/defender-for-cloud/regulatory-compliance-dashboard) 
 
 ## Aandachtspunten
-Zoals hieronder is het gebruik van meerdere governance framework een aanrader. Denk aan CIS framework en blijf de Microsoft cloud security benchmark gebruiken omdat deze framework uitgebreide implementatie documentatie heeft ook van controls die niet via een Azure policy te valideren is.
+Zoals hieronder in beeld is het gebruik van meerdere governance frameworks een aanrader. Denk aan het CIS framework of blijf de Microsoft cloud security benchmark gebruiken. Dit framework heeft uitgebreide implementatiedocumentatie, ook van controls die niet via een Azure policy te valideren zijn.
 
 ![alt text](../media/Screenshot.governance.png?raw=true "compliancy steps")
