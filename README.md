@@ -3,7 +3,7 @@
 > As this project is specific for the Dutch education and research institutions the rest of this article will be in Dutch.
 
 
-Dit SURF project omvat een Initiative Policy Template, welke ingeladen kan worden in Microsoft Azure. In combinatie met Defender for Cloud kan men auditen of resources in een Azure omgeving voldoen aan niveau 3 van het SURFaudit toetsingskader.
+Dit SURF project omvat een Initiative Policy Template, welke ingeladen kan worden in Microsoft Azure. In combinatie met Defender for Cloud kan men Azure resources auditen. Het is toepasbaar op alle PaaS en IaaS diensten binnen Azure. Het omvat algemene checks, en checks gebaseerd op bestaande Azure, Linux, Docker, en Kubernetes baselines, gelinkt aan de verschillende controls van het SURFaudit toetsingskader.  
 
 Deze template is het startpunt om niveau 3 van het [SURFaudit toetsingskader](https://www.surf.nl/surfaudit-toetsingskader-beoordeel-je-informatiebeveiliging) te halen in een Microsoft cloud omgeving. De template kan worden aangepast aan de eisen en wensen van een specifieke organisatie. De template omvat uitsluitend technische controls. Procesmatige controls dienen binnen de organisatie ingevoerd te worden om volledig tot niveau 3 te komen. Alle policies zijn van het type 'audit' of 'deny' en allen zijn ingesteld op 'audit'. 
 
