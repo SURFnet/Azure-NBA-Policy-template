@@ -35,6 +35,16 @@ Dit project verwelkomt bijdragen en suggesties. Wanneer je een pull-verzoek indi
 |---|---|
 | 0.1.0 |[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](./docs/README.md)
 
+Als je snel wilt zien of je compliant bent, dan kun je vervolgens de volgende stappen volgen:
+* Log in op de [Azure portal](https://portal.azure.com)
+* Zoek naar Policy en klik hierop
+* Op de pagina zie je een eerste overzicht van de toegekende policies en hun top-level status
+* Klik op de [Preview] SURFaudit ... Policy, om in te zoomen op deze policy.
+* Nu zie je op Control niveau of je compliant bent of niet
+* Klik op een control en vervolgens op Policies om de policies te zien die onder deze control vallen en hun compliancy
+* Klik vervolgens op de Policy om de resources te zien die al dan niet compliant zijn
+
+
 ## Disclaimer
 
 Deze template dient te worden gezien als hulpmiddel om niveau 3 te bereiken. Onder geen enkele voorwaarde garandeert SURF dat deze template direct leidt tot een volledige compliancy ten aanzien van resources in de Microsoft Azure omgeving.
